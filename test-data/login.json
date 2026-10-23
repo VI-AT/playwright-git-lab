@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Valid login",
+    "email": "customer2@practicesoftwaretesting.com",
+    "password": "welcome01",
+    "expectedResult": "success"
+  },
+  {
+    "name": "Invalid credentials",
+    "email": "nobody@example.com",
+    "password": "wrongpass",
+    "expectedResult": "failure"
+  }
+]
